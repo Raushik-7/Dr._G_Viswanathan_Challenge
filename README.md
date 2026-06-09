@@ -10,5 +10,7 @@
 | Day 6 | Arrays | [Product Array Puzzle](https://www.geeksforgeeks.org/problems/product-array-puzzle4525/1) | Constructed prefix and suffix products to compute the product of all elements except self without using division. |
 | Day 7 | Arrays | [LeetCode 53: Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Implemented Kadane’s Algorithm to find the maximum contiguous subarray sum in O(N) time by maintaining a running sum. |
 | Day 8 | Arrays | [LeetCode 42: Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Calculated trapped water using precomputed left and right maximum boundaries, optimizing water accumulation calculations. |
+| Day 9 | Strings | [LeetCode 13: Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Learned how to process Roman numerals by handling subtraction cases (IV, IX, XL, XC, CD, CM) and converting the string into its integer representation efficiently in O(N) time. |
+| Day 9 | Mathematics | [Factorial of a Large Number](https://www.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1) | Used digit-by-digit multiplication to compute factorials beyond standard integer limits, storing results in an array/vector to handle very large values. |
 
 ---
