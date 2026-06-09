@@ -1,6 +1,6 @@
 # DSA Progress Tracker 🚀
 
-| Day | Date | Topic Covered | Key Takeaways & Notes |
+| Day  | Topic Covered  | Problem Solved / Task Completed | Key Takeaways & Notes |
 |------|------|------|------|------|
 | Day 1 | Binary Search | [LeetCode 69: Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Applied Binary Search on the answer space to efficiently compute the integer square root without using built-in square root functions. |
 | Day 2 | Binary Search | [LeetCode 1539: Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) ⭐ Must See | Utilized Binary Search to determine the count of missing numbers before a given index, reducing time complexity from O(N) to O(log N). |
