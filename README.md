@@ -12,5 +12,7 @@
 | Day 8 | Arrays | [LeetCode 42: Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Calculated trapped water using precomputed left and right maximum boundaries, optimizing water accumulation calculations. |
 | Day 9 | Strings | [LeetCode 13: Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Learned how to process Roman numerals by handling subtraction cases (IV, IX, XL, XC, CD, CM) and converting the string into its integer representation efficiently in O(N) time. |
 | Day 9 | Mathematics | [Factorial of a Large Number](https://www.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1) | Used digit-by-digit multiplication to compute factorials beyond standard integer limits, storing results in an array/vector to handle very large values. |
+| Day 10 | Backtracking | [LeetCode 22: Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Used Backtracking to recursively build valid parenthesis combinations while maintaining counts of opening and closing brackets, generating only valid sequences. |
+| Day 10 | Strings / KMP Algorithm | [Longest Prefix Suffix (GFG)](https://www.geeksforgeeks.org/problems/longest-prefix-suffix2527/1) | Learned the construction of the LPS (Longest Prefix Suffix) array from the KMP Algorithm, enabling efficient pattern matching and prefix-suffix computations in O(N) time. |
 
 ---
