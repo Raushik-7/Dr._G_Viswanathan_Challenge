@@ -14,5 +14,7 @@
 | Day 9 | Mathematics | [Factorial of a Large Number](https://www.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1) | Used digit-by-digit multiplication to compute factorials beyond standard integer limits, storing results in an array/vector to handle very large values. |
 | Day 10 | Backtracking | [LeetCode 22: Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Used Backtracking to recursively build valid parenthesis combinations while maintaining counts of opening and closing brackets, generating only valid sequences. |
 | Day 10 | Strings / KMP Algorithm | [Longest Prefix Suffix (GFG)](https://www.geeksforgeeks.org/problems/longest-prefix-suffix2527/1) | Learned the construction of the LPS (Longest Prefix Suffix) array from the KMP Algorithm, enabling efficient pattern matching and prefix-suffix computations in O(N) time. |
+| Day 11 | Arrays | [LeetCode 228: Summary Ranges](https://leetcode.com/problems/summary-ranges/) | Traversed the sorted array while identifying consecutive sequences and compressed them into range representations, improving interval processing skills. |
+| Day 11 | Dynamic Programming  | [LeetCode 3691: Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | Explored optimization techniques for maximizing the total value across subarrays, focusing on efficient state transitions and avoiding redundant computations. |
 
 ---
