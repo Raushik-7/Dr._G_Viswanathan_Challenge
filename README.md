@@ -16,5 +16,7 @@
 | Day 10 | Strings / KMP Algorithm | [Longest Prefix Suffix (GFG)](https://www.geeksforgeeks.org/problems/longest-prefix-suffix2527/1) | Learned the construction of the LPS (Longest Prefix Suffix) array from the KMP Algorithm, enabling efficient pattern matching and prefix-suffix computations in O(N) time. |
 | Day 11 | Arrays | [LeetCode 228: Summary Ranges](https://leetcode.com/problems/summary-ranges/) | Traversed the sorted array while identifying consecutive sequences and compressed them into range representations, improving interval processing skills. |
 | Day 11 | Dynamic Programming  | [LeetCode 3691: Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | Explored optimization techniques for maximizing the total value across subarrays, focusing on efficient state transitions and avoiding redundant computations. |
-
+| Day 12 | Backtracking | [LeetCode 78: Subsets](https://leetcode.com/problems/subsets/) | Used Backtracking to generate all possible subsets of a given array by exploring inclusion and exclusion choices at each step. |
+| Day 13 | Arrays | [LeetCode 228: Summary Ranges](https://leetcode.com/problems/summary-ranges/) | Identified consecutive sequences in a sorted array and represented them as compact ranges, improving interval traversal techniques. |
+| Day 14 | Strings | [LeetCode 686: Repeated String Match](https://leetcode.com/problems/repeated-string-match/) |Repeated the base string until it could potentially contain the target string, then checked for substring existence while minimizing repetitions. |
 ---
