@@ -19,4 +19,6 @@
 | Day 12 | Backtracking | [LeetCode 78: Subsets](https://leetcode.com/problems/subsets/) | Used Backtracking to generate all possible subsets of a given array by exploring inclusion and exclusion choices at each step. |
 | Day 13  | Arrays / Two Pointers | [Pair with Given Difference (GFG)](https://www.geeksforgeeks.org/problems/find-pair-given-difference1559/1) | Used sorting along with the Two Pointers technique to efficiently find whether a pair exists with the required difference, reducing the search complexity significantly compared to brute force. |
 | Day 14 | Strings | [LeetCode 686: Repeated String Match](https://leetcode.com/problems/repeated-string-match/) |Repeated the base string until it could potentially contain the target string, then checked for substring existence while minimizing repetitions. |
+| Day 15 |  Greedy | [LeetCode 455: Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Applied a Greedy approach by sorting both arrays and assigning the smallest sufficient cookie to each child, maximizing the number of satisfied children efficiently. |
+| Day 15 | Arrays | [LeetCode 414: Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | Maintained the top three distinct maximum values while traversing the array, avoiding the need for sorting and achieving an efficient solution. |
 ---
