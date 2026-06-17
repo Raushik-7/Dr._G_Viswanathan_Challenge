@@ -21,4 +21,6 @@
 | Day 14 | Strings | [LeetCode 686: Repeated String Match](https://leetcode.com/problems/repeated-string-match/) |Repeated the base string until it could potentially contain the target string, then checked for substring existence while minimizing repetitions. |
 | Day 15 |  Greedy | [LeetCode 455: Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Applied a Greedy approach by sorting both arrays and assigning the smallest sufficient cookie to each child, maximizing the number of satisfied children efficiently. |
 | Day 15 | Arrays | [LeetCode 414: Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | Maintained the top three distinct maximum values while traversing the array, avoiding the need for sorting and achieving an efficient solution. |
+| Day 16 | Stack | [LeetCode 496: Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | First implemented the Brute Force approach with O(N²) complexity, then optimized it using a Monotonic Stack and Hash Map to achieve an efficient O(N) solution while understanding the Next Greater Element pattern. |
+| Day 16 | Arrays | [LeetCode 495: Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | Calculated overlapping poison durations by adding only the effective contribution of each attack, ensuring accurate total poison time. |
 ---
